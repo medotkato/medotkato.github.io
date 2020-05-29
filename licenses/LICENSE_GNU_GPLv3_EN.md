@@ -1,4 +1,7 @@
-# GNU GENERAL PUBLIC LICENSE
+---
+layout: page
+title: GNU GENERAL PUBLIC LICENSE
+---
 
 > carefully copypasted from the [original source](https://www.gnu.org/licenses/gpl-3.0.md)
 

@@ -1,4 +1,7 @@
-# Creative Commons Attribution-ShareAlike 4.0 International Public License
+---
+layout: page
+title: Creative Commons Attribution-ShareAlike 4.0 International Public License
+---
 
 > carefully copypasted from the [original source](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
