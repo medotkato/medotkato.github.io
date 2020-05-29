@@ -1,1 +1,1 @@
-# medotkato.github.io
+Go here: [medotkato.github.io](https://medotkato.github.io)
