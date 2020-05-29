@@ -2,8 +2,8 @@
 title:               'medotkato: '
 tagline:             'Череп не жмёт'
 description:         'Камерный блог прикладных размышлений о происходящем и бизнесе (и даже иногда об IT-бизнесе). Пишу не часто, но, как правило, по делу.'
-url:                 https://medotkato.github.io.git
-baseurl:             ''
+url:                 https://medotkato.github.io
+baseurl:             'https://medotkato.github.io/'
 paginate:            5
 permalink:           pretty
 
