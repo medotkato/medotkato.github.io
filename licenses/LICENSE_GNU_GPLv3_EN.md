@@ -1,6 +1,6 @@
 ---
 layout: page
-title: None
+title: GNU General Public License version 3
 ---
 
 > carefully copypasted from the [original source](https://www.gnu.org/licenses/gpl-3.0.md)
